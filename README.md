@@ -1,5 +1,5 @@
 
-417 Group Project
+School Project
 
 
 Project is configured to compile on Linux using g++.
