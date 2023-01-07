@@ -1,0 +1,45 @@
+Generated rap with avg rhyme density:  0.3487179487179487 and avg readability of:  2.85
+Rap Generated with SimpleRNN:
+I've been tryin' panda panda panda say now man you
+Now is Kanye black jefferson kid mind
+Look at ya, butt surviving 100's right now
+I've been tryin' panda panda panda say now man you
+She say she black over came from best mistress
+Like they still about me nothing right now man
+My wrist in equinox 'bout better from him team
+Cause I ain't panda panda panda panda
+But I feel it fadin' you sayin' thick is pac
+And I'm not graduated famous hired mind are
+I've been tryin' panda panda panda say now man you
+Act like you butt 'bout me swerve believe
+Look at ya, butt surviving 100's right now
+You'll probably find you know it again you
+My wrist in equinox 'bout better from him team
+Like they still about me nothing right now man you
+I live for know know yeah you premeditated you see
+You'll probably find you know it again you
+I've been tryin' panda panda panda say now man you
+Now is Kanye black jefferson kid mind
+
+Generated rap with avg rhyme density:  0.3950617283950617 and avg readability of:  2.7599999999999993
+Rap Generated with LSTM:
+In that **** bam feel me nothing right
+Money never made me nothing right now
+I live for me nothing right now huh honey mistakes
+And I'm not things soulless normal are are are
+It's somethin' that thought her in in
+Uh, they better breathe stronger me me me
+This the cray-ist feel me nothing e bottom
+Like I ain't dead villain like tongue
+Used to only my pole die men christians enough
+Chain the color a story sing collagen
+Your pussy's too excit sky excit sky excit
+I still bring there dream a swallower
+But I couldn't want out this back up do off
+Like I ain't dead villain like tongue
+I live for me nothing right now huh honey mistakes
+I live for me nothing right now huh honey mistakes
+For a chance of yeah swerve believe swerve
+We above the parents left paris away see kanye
+Chain the color a story sing collagen
+Toys "R" Us black fantastic soft better him me
