@@ -1,6 +1,5 @@
 
-School Project
-
+A program that uses Multi-Agent Path Finding ML Algs to create a Rubik's cube Solver
 
 Project is configured to compile on Linux using g++.
 
